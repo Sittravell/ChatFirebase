@@ -1,3 +1,4 @@
+/* REPLACE: With your application id and valid path */
 package com.example.templates.models
 
 import android.util.Log
